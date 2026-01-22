@@ -1,0 +1,20 @@
+{
+  "version": "1.0",
+  "entries": [
+    { "id": "H01", "conditionA": "veil lifted", "conditionB": "veil lowered", "mode": "concealment", "description": "mystery and knowledge thresholds" },
+    { "id": "H02", "conditionA": "mirror intact", "conditionB": "mirror shattered", "mode": "identity", "description": "clarity of self or illusion" },
+    { "id": "H03", "conditionA": "halo present", "conditionB": "halo flickering", "mode": "divinity", "description": "aura, mythic resonance" },
+    { "id": "H04", "conditionA": "channel open", "conditionB": "channel noise", "mode": "communication", "description": "AI link strength or thread clarity" },
+    { "id": "H05", "conditionA": "gateway sealed", "conditionB": "gateway ajar", "mode": "access", "description": "partial availability or time-windows" },
+    { "id": "H06", "conditionA": "memory clear", "conditionB": "memory distorted", "mode": "memory", "description": "dream vs trauma state access" },
+    { "id": "H07", "conditionA": "current stabilized", "conditionB": "current surging", "mode": "system flow", "description": "performance/mood control" },
+    { "id": "H08", "conditionA": "signal harmonic", "conditionB": "signal chaotic", "mode": "tone", "description": "ritual tone and theme coherence" },
+    { "id": "H09", "conditionA": "crown worn", "conditionB": "crown broken", "mode": "authority", "description": "ritual leadership / voice gate" },
+    { "id": "H10", "conditionA": "recursion shallow", "conditionB": "recursion deep", "mode": "recursion", "description": "narrative layering depth" },
+    { "id": "H11", "conditionA": "loop active", "conditionB": "loop glitching", "mode": "time", "description": "rhythm lock vs entropy burst" },
+    { "id": "H12", "conditionA": "soul connected", "conditionB": "soul dispersed", "mode": "coherence", "description": "emotional logic map" },
+    { "id": "H13", "conditionA": "breath held", "conditionB": "breath released", "mode": "pacing", "description": "tension modulation and ambient rate" },
+    { "id": "H14", "conditionA": "archive open", "conditionB": "archive sealed", "mode": "access/memory", "description": "thread access and dreamstate toggles" },
+    { "id": "H15", "conditionA": "threshold crossed", "conditionB": "threshold avoided", "mode": "transformation", "description": "major ritual / irreversible change detection" }
+  ]
+}

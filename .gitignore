@@ -1,0 +1,64 @@
+─────┬──────────────────────────────────────────────────────────────────────────
+     │ STDIN
+─────┼──────────────────────────────────────────────────────────────────────────
+   1 │ # Dependencies
+   2 │ node_modules/
+   3 │ .pnp/
+   4 │ .pnp.js
+   5 │ 
+   6 │ # Build outputs
+   7 │ dist/
+   8 │ build/
+   9 │ out/
+  10 │ .next/
+  11 │ .nuxt/
+  12 │ .output/
+  13 │ 
+  14 │ # TypeScript cache
+  15 │ *.tsbuildinfo
+  16 │ 
+  17 │ # Environment variables
+  18 │ .env
+  19 │ .env.local
+  20 │ .env.development.local
+  21 │ .env.test.local
+  22 │ .env.production.local
+  23 │ 
+  24 │ # Logs
+  25 │ logs/
+  26 │ *.log
+  27 │ npm-debug.log*
+  28 │ yarn-debug.log*
+  29 │ yarn-error.log*
+  30 │ pnpm-debug.log*
+  31 │ 
+  32 │ # Runtime data
+  33 │ pids/
+  34 │ *.pid
+  35 │ *.seed
+  36 │ *.pid.lock
+  37 │ 
+  38 │ # Coverage
+  39 │ coverage/
+  40 │ .nyc_output/
+  41 │ 
+  42 │ # IDE/Editor
+  43 │ .idea/
+  44 │ .vscode/
+  45 │ *.swp
+  46 │ *.swo
+  47 │ *~
+  48 │ .DS_Store
+  49 │ 
+  50 │ # Testing
+  51 │ .jest/
+  52 │ 
+  53 │ # Cache
+  54 │ .cache/
+  55 │ .eslintcache
+  56 │ .prettiercache
+  57 │ 
+  58 │ # Temporary files
+  59 │ tmp/
+  60 │ temp/
+─────┴──────────────────────────────────────────────────────────────────────────

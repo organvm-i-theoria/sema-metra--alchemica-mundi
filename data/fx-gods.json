@@ -1,0 +1,30 @@
+{
+  "version": "1.0",
+  "units": [
+    { "id": "filter", "godName": "The Divider", "effectType": "Frequency split", "role": "Cuts truth from noise", "toneModule": "Filter" },
+    { "id": "compressor", "godName": "The Enforcer", "effectType": "Dynamic flattening", "role": "Tames chaos, lifts silence", "toneModule": "Compressor" },
+    { "id": "knee", "godName": "The Softbreaker", "effectType": "Threshold onset curve", "role": "Bends or breaks fate", "toneModule": "Compressor" },
+    { "id": "threshold", "godName": "The Judge", "effectType": "Activation line", "role": "Determines consequence", "toneModule": "Gate" },
+    { "id": "expander", "godName": "The Unraveler", "effectType": "Dynamic enhancer", "role": "Pulls whispers into shout", "toneModule": "Compressor" },
+    { "id": "envelope_follower", "godName": "The Listener", "effectType": "Follows input contour", "role": "Breath follower", "toneModule": "Follower" },
+    { "id": "saturator", "godName": "The Firetongue", "effectType": "Adds harmonic blood", "role": "Emotion overload", "toneModule": "Distortion" },
+    { "id": "fold", "godName": "The Fractalist", "effectType": "Breaks symmetry", "role": "Creative collapse", "toneModule": "WaveShaper" },
+    { "id": "drive", "godName": "The Hammer", "effectType": "Signal push", "role": "Aggression spike", "toneModule": "Distortion" },
+    { "id": "gate", "godName": "The Gatekeeper", "effectType": "Passes or blocks", "role": "Binary entry", "toneModule": "Gate" },
+    { "id": "trigger", "godName": "The Spark", "effectType": "Instant action", "role": "Ritual ignition", "toneModule": "Envelope" },
+    { "id": "reverb", "godName": "The Veil", "effectType": "Space and myth trail", "role": "Echo of otherworlds", "toneModule": "Reverb" },
+    { "id": "shimmer", "godName": "The Angel's Path", "effectType": "High pitch glow", "role": "Divinity enhancer", "toneModule": "PitchShift" },
+    { "id": "delay", "godName": "The Mirror Chain", "effectType": "Time reflection", "role": "Past looped", "toneModule": "FeedbackDelay" },
+    { "id": "glitch", "godName": "The Screamer", "effectType": "System corruption", "role": "Pattern interruptor", "toneModule": "BitCrusher" },
+    { "id": "freeze", "godName": "The Stasis Node", "effectType": "Holds time", "role": "Immortality trap", "toneModule": "Freeverb" },
+    { "id": "granulator", "godName": "The Particle Oracle", "effectType": "Fragments signal", "role": "Memory distortion", "toneModule": "GrainPlayer" },
+    { "id": "convolution", "godName": "The Memory Chamber", "effectType": "Space inheritance", "role": "Past imprint", "toneModule": "Convolver" },
+    { "id": "formant", "godName": "The Shapeshifter", "effectType": "Voice morph", "role": "Identity switch", "toneModule": "Filter" },
+    { "id": "pitch_shift", "godName": "The Mirror Twin", "effectType": "Harmonic offset", "role": "Doubled selves", "toneModule": "PitchShift" },
+    { "id": "vocoder", "godName": "The Mouth of Many", "effectType": "Signal blend", "role": "AI character fusion", "toneModule": "Vocoder" },
+    { "id": "wavetable", "godName": "The Prism Lord", "effectType": "Wave oscillation", "role": "State cycling", "toneModule": "OmniOscillator" },
+    { "id": "crossfade", "godName": "The Threshold", "effectType": "Transitions", "role": "Blend between worlds", "toneModule": "CrossFade" },
+    { "id": "ducker", "godName": "The Submissive", "effectType": "Volume suppression", "role": "Makes room", "toneModule": "Compressor" },
+    { "id": "mix", "godName": "The Balancer", "effectType": "Final combine", "role": "Ritual resolution", "toneModule": "Channel" }
+  ]
+}
