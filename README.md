@@ -516,7 +516,7 @@ No back-edges: ORGAN-III cannot depend on ORGAN-II. The dependency flow is I->II
 
 | Repository | Organ | Relationship |
 |-----------|-------|-------------|
-| [recursive-engine](https://github.com/organvm-i-theoria/recursive-engine) | I | Flagship. Recursive computation theory — the epistemological companion to sema-metra's signal ontology |
+| [recursive-engine--generative-entity](https://github.com/organvm-i-theoria/recursive-engine--generative-entity) | I | Flagship. Recursive computation theory — the epistemological companion to sema-metra's signal ontology |
 | [metasystem-master](https://github.com/organvm-ii-poiesis/metasystem-master) | II | Consumes ORGAN-I ontological primitives for generative art |
 | [agentic-titan](https://github.com/organvm-iv-taxis/agentic-titan) | IV | Orchestration agent that references ORGAN-I axiom patterns for governance |
 
