@@ -46,7 +46,7 @@
     "vitest": "^4.0.18"
   },
   "dependencies": {
-    "commander": "^12.0.0",
+    "commander": "^14.0.3",
     "tone": "^15.0.4",
     "zod": "^3.22.4"
   },
