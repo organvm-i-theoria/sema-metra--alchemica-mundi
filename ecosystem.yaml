@@ -1,9 +1,28 @@
 schema_version: '1.0'
 repo: sema-metra--alchemica-mundi
 organ: I
-display_name: "Three-engine alchemical transformation framework \u2014 22 operations\
-  \ mapping classical alchemy (Nigredo\u2192Rubedo) onto computational semantics via\
-  \ distillation, fermentation, and projection engines"
+display_name: "Three-engine alchemical transformation framework — 22 operations mapping classical alchemy onto computational semantics"
+
 delivery:
-- platform: web_app
+- platform: python_library
+  status: in_progress
+  priority: critical
+  notes: "TypeScript package with distillation, fermentation, and projection engines"
+  next_action: "Complete core engine API and publish to npm"
+- platform: cli_tool
+  status: planned
+  priority: high
+  notes: "CLI for running alchemical transformations on text/data"
+  next_action: "Implement CLI wrapper around core engines"
+
+content:
+- platform: docs_site
   status: not_started
+  priority: high
+  notes: "Documentation mapping 22 alchemical operations to computational operations"
+  next_action: "Write operation reference guide with examples"
+- platform: academic_writing
+  status: planned
+  priority: medium
+  notes: "Paper on computational alchemy as a framework for semantic transformation"
+  next_action: "Draft outline mapping classical alchemy to modern NLP operations"
